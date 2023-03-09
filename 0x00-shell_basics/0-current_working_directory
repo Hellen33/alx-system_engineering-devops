@@ -1,1 +1,3 @@
-rm -rf 0-current_working_directory.swp
+#!/bin/bash
+pwd
+
